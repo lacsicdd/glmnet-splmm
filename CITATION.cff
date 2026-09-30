@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Se você usar este código, cite-o como abaixo."
+title: "Descobrindo genes que regulam a produção de vitamina B2: uma abordagem estatística e computacional integrada e inovadora"
+type: software
+authors:
+  - family-names: "Silva"
+    given-names: "Larissa Castro"
+    affiliation: "Departamento de Matemática (DEMAT), Universidade Federal de São João del-Rei (UFSJ)"
+  - family-names: "Oliveira"
+    given-names: "Daniela Carine Ramires de"
+    affiliation: "Departamento de Matemática (DEMAT), Universidade Federal de São João del-Rei (UFSJ)"
+abstract: "Integração dos pacotes glmnet e splmm para automatizar a definição da grade do parâmetro de regularização na seleção de efeitos fixos em Modelos Lineares de Efeitos Mistos, com estudo de simulação Monte Carlo, aplicação a dados de expressão gênica da riboflavina (Bacillus subtilis) e diagnóstico do modelo com lme4."
+keywords:
+  - riboflavina
+  - seleção de variáveis
+  - modelos mistos
+  - alta dimensionalidade
+  - lasso
+  - green computing
+license: MIT
+repository-code: "https://github.com/SEU-USUARIO/riboflavina-glmnet-splmm"
+date-released: "2026-09-30"

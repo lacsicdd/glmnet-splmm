@@ -1,0 +1,16 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.Rproj
+renv/library/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporarios
+*.tmp
+*~
