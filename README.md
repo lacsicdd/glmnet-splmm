@@ -78,4 +78,4 @@ Código sob licença MIT (ver `LICENSE`).
 
 ## Contato
 
-Daniela Carine Ramires de Oliveira, DEMAT/UFSJ: *(e-mail institucional)*
+Daniela Carine Ramires de Oliveira, DEMAT/UFSJ: *(daniela@ufsj.edu.br)*
